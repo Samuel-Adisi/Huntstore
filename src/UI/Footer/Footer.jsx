@@ -52,9 +52,9 @@ const Footer = () => {
       <div>
         <h2>Contact Us</h2>
         <ul>
-          <li>Obafemi Awolowo University, Osun State, Nigeria</li>
-          <li>Email: Mustaphafarouk41@gmail.com</li>
-          <li>Phone:+2348073946451</li>
+          <li>Accra Technical University, Accra, Ghana</li>
+          <li>Email: samueladisi555@gmail.com</li>
+          <li>Phone:+233537872807</li>
         </ul>
         <div className={classes.socialLogo}>
           <img src="" alt="" />

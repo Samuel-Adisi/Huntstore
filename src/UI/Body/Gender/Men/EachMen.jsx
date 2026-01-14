@@ -58,7 +58,7 @@ const EachMen = (props) => {
               setValue(newValue);
             }}
           />
-          <p className="price">₦{props.price}.00</p>
+          <p className="price">GHC{props.price}.00</p>
         </div>
         <Button
           className={classes.btn}

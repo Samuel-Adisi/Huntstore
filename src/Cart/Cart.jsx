@@ -57,7 +57,7 @@ const Cart = (props) => {
           className={classes.checkout}
           onClick={props.onClose}
         >
-          Checkout Now <span>(₦{cartCtx.totalAmount}.00)</span>
+          Checkout Now <span>(GHC{cartCtx.totalAmount}.00)</span>
         </Link>
 
         <Link className={classes.viewCart} to="/cart" onClick={props.onClose}>

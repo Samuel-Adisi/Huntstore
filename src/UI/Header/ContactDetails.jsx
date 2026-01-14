@@ -13,22 +13,22 @@ const ContactDetails = () => {
       <div className={classes.contact}>
         <div className={classes.call}>
           <MdCall />
-          <Link to="+2348073946451">+2348073946451</Link>
+          <Link to="+233537872807">+233537872807</Link>
         </div>
         <div className={classes.mail}>
           <AiOutlineMail />
-          <a href={+2348073946451}>Mustaphafarouk41@gmail.com</a>
+          <a href={+2348073946451}>samueladisi555@gmail.com</a>
         </div>
       </div>
       <ul className={classes.details}>
         <li>
-          <Link to="www.facebook/faroukayo">
+          <Link to="#">
             <GrFacebook />
           </Link>
-          <Link to="https://twitter.com/Faroukayo24">
+          <Link to="#">
             <BsTwitter />
           </Link>
-          <Link to="https://www.linkedin.com/in/Faroukayo">
+          <Link to="https://www.linkedin.com/in/Samuel-Adisi">
             <BsLinkedin />
           </Link>
 
